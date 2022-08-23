@@ -1,0 +1,1 @@
+﻿Copy-Item -Path "C:\Temp\dummyfile.html" -destination "C:\inetpub\wwwroot"
